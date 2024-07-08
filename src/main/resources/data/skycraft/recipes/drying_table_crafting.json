@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LSL",
+    "SGS",
+    "LSL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:oak_log"
+    },
+    "S": {
+      "item": "minecraft:oak_slab"
+    },
+    "G": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "skycraft:drying_table",
+    "count": 1
+  }
+}
